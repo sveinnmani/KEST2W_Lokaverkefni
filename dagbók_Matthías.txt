@@ -1,1 +1,2 @@
 18.04.2018
+Setti upp DHCP og NAT
