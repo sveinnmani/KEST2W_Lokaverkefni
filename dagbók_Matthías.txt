@@ -1,2 +1,2 @@
 18.04.2018
-Setti upp DHCP og NAT
+Setti upp seinni serverinn, setti upp static IP fyrir hann, DHCP og NAT, tengdi tölvurnar við domainið sem Sveinn setti upp.
