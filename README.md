@@ -1,4 +1,11 @@
 # KEST2W_Lokaverkefni
 
-### Viðbætur
+## Viðbætur
 
+Prentarar:
+
+Firefox:
+
+BGInfo:
+
+Folder Redirection:
