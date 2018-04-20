@@ -11,3 +11,5 @@ BGInfo:
 Folder Redirection:
 
 Screensaver:
+
+File Extensions:
