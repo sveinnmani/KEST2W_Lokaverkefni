@@ -9,3 +9,5 @@ Firefox:
 BGInfo:
 
 Folder Redirection:
+
+Screensaver:
