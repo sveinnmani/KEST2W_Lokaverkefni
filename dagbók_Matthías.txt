@@ -1,2 +1,5 @@
 18.04.2018
 Setti upp seinni serverinn, setti upp static IP fyrir hann, DHCP og NAT, tengdi tölvurnar við domainið sem Sveinn setti upp.
+
+20.04.2018
+Setti upp home folderin fyrir nemendur og kennara upp á seinni serverinum og bætti við quota á folderin þannig að nemendur eru með 10MB og kennarar með 20MB. Ég náði líka í BGInfo og gerði öll skjöl tilbúin og script fyrir Svein til að bæta við í GPO.
