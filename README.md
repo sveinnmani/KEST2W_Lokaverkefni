@@ -13,3 +13,5 @@ Folder Redirection:
 Screensaver:
 
 File Extensions:
+
+Notepad++:
