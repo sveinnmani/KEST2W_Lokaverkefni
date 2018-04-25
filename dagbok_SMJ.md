@@ -8,4 +8,4 @@ Við kláruðum grunnkröfur í dag. Bættum við prenturum, einn fyrir alla not
 
 ### 25.4.2018
 
-Ætlaði að bæta við forritum fyrir kennara og nemendur sem eru á tölvubraut. Eina forritið sem ég fann sem er með msi var notepad++. Fann líka msi fyrir Filezilla en það virkaði ekki.
+Ætlaði að bæta við forritum fyrir kennara og nemendur sem eru á tölvubraut. Eina forritið sem ég fann sem er með msi var notepad++. Fann líka msi fyrir Filezilla en það virkaði ekki þannig ég hætti við það.
