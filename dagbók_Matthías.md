@@ -6,3 +6,6 @@
 
 ## 25.04.2018 
 #### Settu upp ftp server á seinni serverinum og var að prufa stillingar fyrir hann endaði með að setja hann upp þannig að allir kennarar geta notað ftp til þess að fá aðgang að root web serversins og hafa read + write þar.
+
+## 27.04.2018
+#### Setti upp mysql og phpmyadmin og bjó til python forrit sem fer í gegnum csv skjalið og bætir við kennurum með usernameinu sem er í csv skjalinu og lykilorðið pass.123 og er hægt að tegnjast með workbench eða phpmyadmin á 10.201.190.87/phpmyadmin kennararnir eru lokaðir af og geta aðeins haft aðgang að databaseum sem eru staðsettir undir notandanafniÞeirra_databaseNafn
