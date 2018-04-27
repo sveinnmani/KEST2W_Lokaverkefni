@@ -19,3 +19,5 @@ Notepad++:
 FTP:
 
 PHPMyadmin:
+
+Nemendur geta ekki opnað task manager og control panel:
