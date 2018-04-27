@@ -17,3 +17,5 @@ File Extensions:
 Notepad++:
 
 FTP:
+
+PHPMyadmin:
