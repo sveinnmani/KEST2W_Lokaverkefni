@@ -23,3 +23,5 @@ PHPMyadmin:
 Nemendur geta ekki opnað task manager og control panel:
 
 Logon hours fyrir nemendur:
+
+MySQL Workbench:
