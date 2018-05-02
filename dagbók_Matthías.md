@@ -11,4 +11,4 @@
 #### Setti upp mysql og phpmyadmin og bjó til python forrit sem fer í gegnum csv skjalið og bætir við kennurum með usernameinu sem er í csv skjalinu og lykilorðið pass.123 og er hægt að tegnjast með workbench eða phpmyadmin á 10.201.190.87/phpmyadmin kennararnir eru lokaðir af og geta aðeins haft aðgang að databaseum sem eru staðsettir undir notandanafniÞeirra_databaseNafn
 
 ## 02.05.2018
-#### Bætti við að allir notendur hafa account á mysql serverinum og geta annað hvort tengst með phpmyadmin eða workbench og var að leita af hlutum til þess að bæta við serverina og prufaði nokkra hluti.
+#### Bætti við að allir notendur hafa account á mysql serverinum og geta annað hvort tengst með phpmyadmin eða workbench og var að leita af hlutum til þess að bæta við serverina og prufaði nokkra hluti. Kveikti líka á BranchCache sem vistar skjöl frá netinu þegar notendur eru að sækja eitthvað þaðan og ef notandi ætlar að ná í skjal af netinu sem serverinn hefur nú þegar vistað þá gefur serverinn þau frekar locally frá sér í stað þess að downloada aftur skjalinu.
