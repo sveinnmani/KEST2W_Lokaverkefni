@@ -57,3 +57,7 @@ Annað forrit til þess að nota í vefsíðuhönnun.
 #### Yfirkennarar og skólastjóri
 
 Bættum við að sumir kennarar sjá um brautir skólans. Adofri sér um tölvubraut, adabry sér um prentun, adaosk sér um ljósmyndun, adajoh sér um GUF, adathor sér um grafíska miðlun og agnegi er yfir öllum kennurum.
+
+#### BranchCache:
+
+BranchCahce getur afritað gögn af netinu. Ef notandi vill ná í dót af netinu er það gert locally.
