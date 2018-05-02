@@ -2,31 +2,31 @@
 
 ## Viðbætur
 
-### Prentarar:
+#### Prentarar:
 
 
-### Firefox:
+#### Firefox:
 
-### BGInfo:
+#### BGInfo:
 
-### Folder Redirection:
+#### Folder Redirection:
 
-###### Screensaver:
+#### Screensaver:
 
 ### File Extensions:
 
 ### Notepad++:
 
-### FTP:
+#### FTP:
 
-### PHPMyadmin:
+#### PHPMyadmin:
 
 Nemendur á tölvubraut geta þurft að nota gagnagrunna í verkefnum.
 
-### Nemendur geta ekki opnað task manager og control panel:
+#### Nemendur geta ekki opnað task manager og control panel:
 
-### Logon hours fyrir nemendur:
+#### Logon hours fyrir nemendur:
 
-### MySQL Workbench:
+#### MySQL Workbench:
 
 Bættum við Workbench til þess að hafa aðgang að PHPMyAdmin gagnagrunnunum.
