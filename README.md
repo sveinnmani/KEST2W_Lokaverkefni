@@ -8,6 +8,8 @@ Gott fyrir nemendur á Upplýsinga- og fjölmiðlabraut að geta prentað út ve
 
 #### Firefox:
 
+Bættum við firefox aðeins fyrir kennarar, ef þeir vildu nota það í staðinn fyrir Google Chrome. 
+
 #### BGInfo:
 
 #### Folder Redirection:
@@ -32,7 +34,7 @@ Nemendur og Kennara hafa aðgang að phpmyadmin með notandanafn úr csv skjalin
 
 #### Logon hours fyrir nemendur:
 
-
+Settum logon hours svo nemendur skrá sig ekki inn eftir skólatíma þegar það er ekkert eftirlit.
 
 #### MySQL Workbench:
 
