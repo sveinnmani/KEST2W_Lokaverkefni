@@ -35,3 +35,7 @@ Nemendur og Kennara hafa aðgang að phpmyadmin með notandanafn úr csv skjalin
 #### MySQL Workbench:
 
 Bættum við Workbench til þess að hafa aðgang að PHPMyAdmin gagnagrunnunum.
+
+#### Brackets:
+
+Annað forrit til þess að nota í vefsíðuhönnun.
