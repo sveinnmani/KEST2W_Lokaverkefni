@@ -18,6 +18,8 @@ Gott fyrir nemendur á Upplýsinga- og fjölmiðlabraut að geta prentað út ve
 
 #### Notepad++:
 
+Forrit sem nemendur geta notað við vefsíðuhönnun.
+
 #### FTP:
 
 Kennarar geta notað ftp sem fer með þá á heimaslóða á vefsíðu serversins sem er http://10.201.190.37/
