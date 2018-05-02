@@ -4,6 +4,7 @@
 
 #### Prentarar:
 
+Gott fyrir nemendur á Upplýsinga- og fjölmiðlabraut að geta prentað út verkefni. Kennarar geta líka nýtt sér þessa aðstöðu.
 
 #### Firefox:
 
