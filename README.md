@@ -25,3 +25,4 @@ Nemendur geta ekki opnað task manager og control panel:
 Logon hours fyrir nemendur:
 
 MySQL Workbench:
+Bættum við Workbench til þess að hafa aðgang að PHPMyAdmin gagnagrunnunum.
