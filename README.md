@@ -12,11 +12,15 @@ Bættum við firefox aðeins fyrir kennarar, ef þeir vildu nota það í staði
 
 #### BGInfo:
 
+Við notum BGInfo fyrir alla notendur til þess að sjá upplýsingar um tölvuna sem þau eru að nota.
+
 #### Folder Redirection:
 
 #### Screensaver:
 
 #### File Extensions:
+
+
 
 #### Notepad++:
 
