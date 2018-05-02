@@ -11,7 +11,7 @@
 
 ### Folder Redirection:
 
-### Screensaver:
+###### Screensaver:
 
 ### File Extensions:
 
