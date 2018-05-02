@@ -38,6 +38,8 @@ Nemendur og Kennara hafa aðgang að phpmyadmin með notandanafn úr csv skjalin
 
 #### Nemendur geta ekki opnað task manager og control panel:
 
+Nemendum er ekki leyft að nota task manager því þeir gætu drepið task sem væru mikilvæg. Control Panel er bannað því þar gætu nemendur eytt forritum og straujað tölvuna.
+
 #### Logon hours fyrir nemendur:
 
 Settum logon hours svo nemendur skrá sig ekki inn eftir skólatíma þegar það er ekkert eftirlit.
