@@ -1,4 +1,4 @@
-# Býr til account fyrir kennara á mysql serverinum
+# Býr til account fyrir alla á mysql serverinum
 # og username = username úr csv skjalinu password = pass.123
 # og þeir hafa aðgang að búa til database undir
 # notandanafnÞeirra_nafnÁdatabase
