@@ -32,6 +32,8 @@ Nemendur og Kennara hafa aðgang að phpmyadmin með notandanafn úr csv skjalin
 
 #### Logon hours fyrir nemendur:
 
+
+
 #### MySQL Workbench:
 
 Bættum við Workbench til þess að hafa aðgang að PHPMyAdmin gagnagrunnunum.
@@ -39,3 +41,7 @@ Bættum við Workbench til þess að hafa aðgang að PHPMyAdmin gagnagrunnunum.
 #### Brackets:
 
 Annað forrit til þess að nota í vefsíðuhönnun.
+
+#### Yfirkennarar og skólastjóri
+
+Bættum við að sumir kennarar sjá um brautir skólans. Adofri sér um tölvubraut, adabry sér um prentun, adaosk sér um ljósmyndun, adajoh sér um GUF, adathor sér um grafíska miðlun og agnegi er yfir öllum kennurum.
