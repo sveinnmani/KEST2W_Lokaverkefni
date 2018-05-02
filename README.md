@@ -13,9 +13,9 @@
 
 #### Screensaver:
 
-### File Extensions:
+#### File Extensions:
 
-### Notepad++:
+#### Notepad++:
 
 #### FTP:
 
