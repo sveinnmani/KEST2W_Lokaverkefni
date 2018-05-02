@@ -20,6 +20,8 @@ Bættum við þremur möppum við í heimasvæði hjá notendum. Þessar möppur
 
 #### Screensaver:
 
+Eftir 5 mínútur af óvirkni fer Screensaver í gang. Þegar notandi fer aftur í tölvuna þarf hann að slá inn lykilorðið sitt aftur inn svo aðrir komast ekki í tölvuna ef notandinn skildi gleyma því að skrá sig út. 
+
 #### File Extensions:
 
 Hentugt að sjá skráarendingu á srkám fyrir nemendur sem eru að vinna í verkefnum.
