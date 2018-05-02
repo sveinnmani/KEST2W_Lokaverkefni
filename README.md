@@ -16,6 +16,8 @@ Við notum BGInfo fyrir alla notendur til þess að sjá upplýsingar um tölvun
 
 #### Folder Redirection:
 
+Bættum við þremur möppum við í heimasvæði hjá notendum. Þessar möppur eru Desktop, Documents og Downloads. Hentugt að hafa þær allar á sama stað.
+
 #### Screensaver:
 
 #### File Extensions:
