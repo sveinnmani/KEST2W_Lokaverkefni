@@ -22,7 +22,7 @@ Bættum við þremur möppum við í heimasvæði hjá notendum. Þessar möppur
 
 #### File Extensions:
 
-
+Hentugt að sjá skráarendingu á srkám fyrir nemendur sem eru að vinna í verkefnum.
 
 #### Notepad++:
 
