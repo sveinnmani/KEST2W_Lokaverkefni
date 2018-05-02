@@ -11,13 +11,12 @@ with open("lokaverk_v18.csv", "r", encoding="utf-8") as f:
     reader = csv.reader(f, delimiter=',')
     data = list(reader)
 for x in data:
-    if x[0] == "Kennarar":
-        username = x[3]
-        password = "pass.123"
-        create = "CREATE USER '"+username+"'@'%' IDENTIFIED BY '"+password+"';"
-        cur.execute(create)
-        grant = "grant all on `"+username+"\_%`.* to `"+username+"`@`%`;"
-        cur.execute(grant)
+    username = x[3]
+    password = "pass.123"
+    create = "CREATE USER '"+username+"'@'%' IDENTIFIED BY '"+password+"';"
+    cur.execute(create)
+    grant = "grant all on `"+username+"\_%`.* to `"+username+"`@`%`;"
+    cur.execute(grant)
 
 conn.commit()
 cur.close()
