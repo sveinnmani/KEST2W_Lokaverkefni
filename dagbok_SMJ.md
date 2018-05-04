@@ -17,4 +17,8 @@ Við kláruðum grunnkröfur í dag. Bættum við prenturum, einn fyrir alla not
 
 ### 2.5.2018
 
-Kláraði viðbætu listann og skrifaði smá um allt það sem er á honum. Bætti við öðru forritu fyrir nemendur á tölvubraut fyrir vefsíðuhönnun sem heitir Brakcets. Ég setti síðan suma kennara sem yfirkennara yfir brautunum sem eru í skólanum. Setti líka agnegi sem skólastjóra skólans eða yfir öllum kennurum. 
+Kláraði viðbætu listann og skrifaði smá um allt það sem er á honum. Bætti við öðru forritu fyrir nemendur á tölvubraut fyrir vefsíðuhönnun sem heitir Brakcets. Ég setti síðan suma kennara sem yfirkennara yfir brautunum sem eru í skólanum. Setti líka agnegi sem skólastjóra skólans eða yfir öllum kennurum.
+
+### 4.5.2018
+
+Fórum yfir og athuguðum hvort allt virkaði á serverninum. Náði að laga MySQL Workbench þar sem forritið virkaði ekki í síðasta tíma. Tók það út og setti það upp aftur til að fá það til þess að virka.
