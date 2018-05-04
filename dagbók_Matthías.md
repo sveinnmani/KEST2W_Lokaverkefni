@@ -12,3 +12,6 @@
 
 ## 02.05.2018
 #### Bætti við að allir notendur hafa account á mysql serverinum og geta annað hvort tengst með phpmyadmin eða workbench og var að leita af hlutum til þess að bæta við serverina og prufaði nokkra hluti. Kveikti líka á BranchCache sem vistar skjöl frá netinu þegar notendur eru að sækja eitthvað þaðan og ef notandi ætlar að ná í skjal af netinu sem serverinn hefur nú þegar vistað þá gefur serverinn þau frekar locally frá sér í stað þess að downloada aftur skjalinu.
+
+## 04.05.2018
+#### Fór yfir allt, sá til þess að allt virkaði eins og það ætti að virka og gerði allt tilbúið til þess að vera sýnt.
